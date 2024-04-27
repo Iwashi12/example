@@ -10,3 +10,8 @@
 ```js
 console.log("hello")
 ```
+
+`git init`
+`git merge`
+`git add`
+`git checkout`

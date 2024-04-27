@@ -19,3 +19,4 @@ console.log("hello")
 - `git pull`
 - `git push`
 - `git fetch`
+- `git clone`

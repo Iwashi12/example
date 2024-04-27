@@ -11,7 +11,11 @@
 console.log("hello")
 ```
 
-`git init`
-`git merge`
-`git add`
-`git checkout`
+- `git init`
+- `git merge`
+- `git add`
+- `git checkout`
+- `git brnach`
+- `git pull`
+- `git push`
+- `git fetch`
